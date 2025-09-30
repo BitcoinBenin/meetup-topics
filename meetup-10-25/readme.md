@@ -29,8 +29,8 @@ L’atelier se déroulera en groupes de 6 personnes maximum.
 Chaque groupe construira son propre setup multisig et réalisera des tests en direct.
 
 ### Bases utiles à connaître (optionnel)
-Avoir déjà utilisé un portefeuille Bitcoin simple.
-Comprendre ce qu’est une clé privée/publique (recommandé, mais pas obligatoire).
+- Avoir déjà utilisé un portefeuille Bitcoin simple.
+- Comprendre ce qu’est une clé privée/publique (recommandé, mais pas obligatoire).
 
 ### Ressources
 Portefeuilles multisig :
