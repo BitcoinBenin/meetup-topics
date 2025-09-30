@@ -3,7 +3,7 @@
 ## Description : Découvrez comment fonctionne le multisig Bitcoin, explorez des cas d’utilisation concrets et pratiquez avec des portefeuilles multisig dans un atelier collaboratif.
 
 
-##Facilitateurs :
+## Facilitateurs :
 @Loicbtc
 @Wilybtc
 
