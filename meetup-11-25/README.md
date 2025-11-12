@@ -13,6 +13,8 @@ Cet événement est une opportunité unique pour les commerçants, startups, dir
 
 ## 👥 Facilitateurs
 
+- [@Loicbtc](https://x.com/willy_btc)
+- [@Wilfried](https://x.com/MarshalOS_btc)
 - [@Marshal](https://x.com/MarshalOS_btc)
 - [@Beni](https://x.com/BenedBtc)
 
