@@ -15,4 +15,22 @@ This repository is dedicated to documenting and organizing the topics covered du
 # Goal
 By preparing together and making knowledge accessible, we can ensure every meetup is a success and that all participants gain maximum value from each session.
 
-Let’s learn, build, and grow as a community 🚀
+Let's learn, build, and grow as a community 🚀
+
+---
+
+# 📅 Our Meetups
+
+## October 2025
+- **Multisig sur Bitcoin** - Découvrez comment fonctionne le multisig Bitcoin, explorez des cas d'utilisation concrets et pratiquez avec des portefeuilles multisig dans un atelier collaboratif.
+  - 📌 [View Details](./meetup-10-25/readme.md)
+  - 🔗 [Register on Clooza](https://clooza.com/events/BITCOINMEETUP1025)
+  - 👥 Facilitators: @LoicBtc, @Wilybtc
+
+## November 2025
+- **Accepter Bitcoin dans son Business** - Apprenez comment configurer et recevoir des paiements en Bitcoin pour transformer votre activité professionnelle.
+  - 📌 [View Details](./meetup-11-25/README.md)
+  - 🔗 [Register on Clooza](https://clooza.com/events/MEETUPNOVEMBRE)
+  - 👥 Facilitators: [@LoicBtc](https://x.com/loicbtc), [@Wilybtc](https://x.com/wilybtc)
+
+---
